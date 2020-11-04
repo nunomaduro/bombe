@@ -3,12 +3,12 @@ Bombe is a tool for benchmarking the given url response status & time.
 ⚡️ Get started by cloning this project locally with [Git](https://git-scm.com/downloads):
 
 ```bash
-git clone https://github.com/nunomaduro/bombe-cli
+git clone https://github.com/nunomaduro/bombe
 ```
 
 ✅ Build the project like so:
 ```bash
-cd bombe-cli
+cd bombe
 make
 ```
 
