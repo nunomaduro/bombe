@@ -1,4 +1,10 @@
-Bombe is a tool for benchmarking the given url response status & time.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/nunomaduro/bombe/master/art/banner.png" alt="Bombe logo" width="480">
+</p>
+
+---
+
+Bombe was created by, and is maintained by **[Nuno Maduro](https://github.com/nunomaduro)**, and is a tool for benchmarking the given url response status and response time.
 
 ⚡️ Get started by cloning this project locally with [Git](https://git-scm.com/downloads):
 
@@ -14,7 +20,8 @@ make
 
 🚀 Next, run Bombe:
 ```bash
-./bin/bombe <your-url.com> <number-of-requests>
+cd bin
+./bombe <your-url.com> <number-of-requests>
 ```
 
 🤓 The output will be something like this:
